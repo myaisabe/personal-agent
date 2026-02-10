@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__mya-tools__*"
+    ]
+  },
+  "mcpServers": {
+    "mya-tools": {
+      "command": "node",
+      "args": ["/home/claude/mycelium/mcp/mya-tools.js"],
+      "env": {
+        "USER_ID": "${MYA_USER_ID}",
+        "AGENT_ROOT": "/home/claude/agents/personal-agent",
+        "MEMORY_SCOPE": "all",
+        "SUPABASE_URL": "${SUPABASE_URL}",
+        "SUPABASE_SERVICE_ROLE_KEY": "${SUPABASE_SERVICE_ROLE_KEY}",
+        "OPENAI_API_KEY": "${OPENAI_API_KEY}",
+        "ORCHESTRATOR_URL": "http://localhost:3000"
+      }
+    }
+  }
+}

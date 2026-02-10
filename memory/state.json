@@ -1,0 +1,11 @@
+{
+  "agentId": "personal-agent",
+  "createdAt": "2026-02-06T00:00:00.000Z",
+  "lastAwakeTime": null,
+  "messagesThisHour": 0,
+  "messagesToday": 0,
+  "lastMessageTime": null,
+  "lastHumanMessageTime": null,
+  "dateKey": "2026-02-06",
+  "hourKey": "2026-02-06T00"
+}

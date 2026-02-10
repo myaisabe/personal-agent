@@ -1,0 +1,14 @@
+# Sessions (ephemeral, managed by agent-server)
+sessions/
+
+# Outputs (temporary)
+outputs/
+
+# Logs
+logs/
+
+# OS
+.DS_Store
+
+# Node
+node_modules/
