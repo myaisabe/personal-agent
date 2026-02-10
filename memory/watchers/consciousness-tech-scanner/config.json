@@ -1,0 +1,11 @@
+{
+  "id": "consciousness-tech-scanner",
+  "purpose": "Scan for developments in consciousness technology, self-knowledge apps, AI-powered journaling/reflection tools, and personal development platforms. Focus on: new product launches, funding rounds, feature announcements, and partnerships. Report only genuinely relevant findings — no filler. Max 5 bullet points per report. Compare findings to what Mya/Curious Life is building.",
+  "schedule": "12h",
+  "reportChannel": "1468943620450291835",
+  "model": "sonnet",
+  "maxTurns": 30,
+  "status": "active",
+  "createdBy": "martin",
+  "createdAt": "2026-02-10T09:05:00.000Z"
+}

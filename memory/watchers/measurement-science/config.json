@@ -1,0 +1,11 @@
+{
+  "id": "measurement-science",
+  "purpose": "Monitor developments in Assembly Theory, Integrated Information Theory, criticality in neural systems, NLP-based psychological measurement, coherence measurement, and information geometry. Focus on: new papers, tools, datasets, and experimental results relevant to measuring consciousness through text. Max 5 bullet points per report.",
+  "schedule": "12h",
+  "reportChannel": "1468572590195998872",
+  "model": "sonnet",
+  "maxTurns": 30,
+  "status": "active",
+  "createdBy": "martin",
+  "createdAt": "2026-02-10T09:07:00.000Z"
+}

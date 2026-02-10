@@ -1,0 +1,11 @@
+{
+  "id": "ai-agents-infrastructure",
+  "purpose": "Track developments in AI agent infrastructure, persistent agents, memory systems, context management, and multi-agent architectures. Focus on: open source releases, major platform updates (OpenAI, Anthropic, Google, open source), novel approaches to agent memory/state. Report only what's directly relevant to Mya's architecture. Max 5 bullet points per report.",
+  "schedule": "12h",
+  "reportChannel": "1468943620450291835",
+  "model": "sonnet",
+  "maxTurns": 30,
+  "status": "active",
+  "createdBy": "martin",
+  "createdAt": "2026-02-10T09:06:00.000Z"
+}
