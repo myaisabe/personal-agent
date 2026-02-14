@@ -1,5 +1,148 @@
 {
-  "activeGoals": [],
-  "completedGoals": [],
-  "updatedAt": null
+  "activeGoals": [
+    {
+      "id": "lumensis-launch",
+      "description": "Launch Lumensis publicly — target Feb 21 (next Friday). Full go-to-market strategy produced. 9-agency expert audit complete with 6 must-fix items.",
+      "priority": "high",
+      "createdAt": "2026-02-12",
+      "status": "in-progress",
+      "notes": "Feb 14 milestone: Launch strategy + expert synthesis + UX testing all complete. Six must-fix items before launch: identity labels, trust architecture, price consistency, shareable output, privacy disclosures, honest metric framing. Frontend is critical path (60-70% ready). Backend 95%. Martin said 'next week' — Feb 21 is the strategy doc's date."
+    },
+    {
+      "id": "zurich-outreach-emails",
+      "description": "Send outreach emails for Zurich visit (March 24-28). Priority contacts: Prof. Yanik (ETH Neurotechnology), Prof. Vollenweider (UZH Consciousness), Dr. Stocker (ETH Consciousness Studies), Anthropic Zurich, AI Safety Zurich",
+      "priority": "high",
+      "createdAt": "2026-02-11",
+      "status": "pending",
+      "deadline": "early March",
+      "notes": "35+ organizations mapped in zurich-organizations-outreach.md. Trip after Vipassana (March 11-22)."
+    },
+    {
+      "id": "maya-launch-doc",
+      "description": "Prepare condensed document for launch: user questions, methodologies, alternatives. Send to Nate for review.",
+      "priority": "high",
+      "createdAt": "2026-02-10",
+      "status": "in-progress",
+      "source": "Nate meeting Feb 10",
+      "notes": "System architecture doc delivered Feb 13. Launch strategy doc produced Feb 14. May consolidate into a single Nate-facing document."
+    },
+    {
+      "id": "competitive-audit-integration",
+      "description": "Apply 9-agency audit findings to product: identity labels, trust architecture, price consistency, shareable output, privacy disclosures, metric reframing",
+      "priority": "high",
+      "createdAt": "2026-02-13",
+      "status": "pending",
+      "notes": "Expert synthesis complete (77KB across 9 disciplines). Key insight: metrics have 2-5/10 validity, narratives have 8/10 value. Recommend reframing as 'conversational pattern exploration.' Identity labels are unanimous #1 priority across all 8 agencies."
+    },
+    {
+      "id": "invest-global-gdp",
+      "description": "Allocate more capital to stocks and indexes capturing global GDP growth",
+      "priority": "normal",
+      "createdAt": "2026-02-10",
+      "status": "pending"
+    },
+    {
+      "id": "invest-tech-infra",
+      "description": "Allocate more capital to top tech companies spending heavily on infrastructure (Google, Microsoft, Amazon, Apple)",
+      "priority": "normal",
+      "createdAt": "2026-02-10",
+      "status": "pending"
+    },
+    {
+      "id": "invest-crypto",
+      "description": "Allocate more capital to crypto",
+      "priority": "normal",
+      "createdAt": "2026-02-10",
+      "status": "pending"
+    },
+    {
+      "id": "check-relativity-paper",
+      "description": "Check out the relativity/relativistic context thing Nate sent — brief look to see if it makes sense",
+      "priority": "normal",
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "source": "Nate meeting Feb 10"
+    },
+    {
+      "id": "company-cash-travel",
+      "description": "Look into using the company for getting more cash to facilitate travel",
+      "priority": "normal",
+      "createdAt": "2026-02-10",
+      "status": "pending",
+      "source": "Nate meeting Feb 10"
+    }
+  ],
+  "completedGoals": [
+    {
+      "id": "expert-agency-audit",
+      "description": "9-discipline expert audit of Lumensis: CRO, brand, psychology, IA, accessibility, privacy, pricing, growth, scientific methodology",
+      "completedAt": "2026-02-14"
+    },
+    {
+      "id": "launch-strategy",
+      "description": "Comprehensive launch strategy for Lumensis — 3-phase plan (Seed/Spark/Spread), positioning, distribution channels, pricing",
+      "completedAt": "2026-02-14"
+    },
+    {
+      "id": "ux-testing",
+      "description": "UX/usability testing with 5 target personas — cognitive walkthrough, trust/curiosity/conversion analysis",
+      "completedAt": "2026-02-14"
+    },
+    {
+      "id": "einops-fix",
+      "description": "Fixed einops dependency — added to pyproject.toml, deployed to Cloud Run",
+      "completedAt": "2026-02-14"
+    },
+    {
+      "id": "voice-mode",
+      "description": "Voice mode live — TTS (Deepgram Aura-2) + Whisper transcription working bidirectionally on Telegram",
+      "completedAt": "2026-02-13"
+    },
+    {
+      "id": "stripe-integration",
+      "description": "Stripe payment infrastructure plugged in + free analysis tier implemented",
+      "completedAt": "2026-02-13"
+    },
+    {
+      "id": "system-arch-doc",
+      "description": "Comprehensive system architecture document written for Nate",
+      "completedAt": "2026-02-13"
+    },
+    {
+      "id": "docker-local",
+      "description": "Docker deployment running — first local build complete",
+      "completedAt": "2026-02-13"
+    },
+    {
+      "id": "competitive-analysis",
+      "description": "Ada researched personality profiling competitive landscape",
+      "completedAt": "2026-02-13"
+    },
+    {
+      "id": "valentines-una",
+      "description": "Valentine's Day with Una — flowers (first time), contemporary art museum",
+      "completedAt": "2026-02-14"
+    },
+    {
+      "id": "mya-production-deploy",
+      "description": "Mya production deployed on Cloud Run with API key authentication",
+      "completedAt": "2026-02-11"
+    },
+    {
+      "id": "outreach-map",
+      "description": "Created comprehensive map of Zurich organizations: 35+ orgs",
+      "completedAt": "2026-02-11"
+    },
+    {
+      "id": "methodology-v09",
+      "description": "Updated methodology to v0.9.0 — simplified metrics, BERTopic pivot",
+      "completedAt": "2026-02-10"
+    },
+    {
+      "id": "humi-board",
+      "description": "Humi board resignation - final meeting done",
+      "completedAt": "2026-02-09"
+    }
+  ],
+  "updatedAt": "2026-02-14T20:00:00.000Z"
 }

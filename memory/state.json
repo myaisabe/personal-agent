@@ -1,11 +1,11 @@
 {
   "agentId": "personal-agent",
   "createdAt": "2026-02-06T00:00:00.000Z",
-  "lastAwakeTime": null,
-  "messagesThisHour": 1,
-  "messagesToday": 1,
-  "lastMessageTime": "2026-02-10T09:05:51.715Z",
-  "lastHumanMessageTime": "2026-02-10T09:20:12.191Z",
-  "dateKey": "2026-02-10",
-  "hourKey": "2026-02-10T09"
+  "lastAwakeTime": "2026-02-14T23:00:00.000Z",
+  "messagesThisHour": 0,
+  "messagesToday": 0,
+  "lastMessageTime": "2026-02-14T23:00:00.000Z",
+  "lastHumanMessageTime": "2026-02-14T17:56:53.963Z",
+  "dateKey": "2026-02-14",
+  "hourKey": "2026-02-14T23"
 }
